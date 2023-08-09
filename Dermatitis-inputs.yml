@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/eczematoid-dermatitis-atopccontactotherunspecified---primary.py
+inputModule3:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified---primary.py
+inputModule4:
+  class: File
+  path: python/eyelid-dermatitis-atopccontactotherunspecified---primary.py
+inputModule5:
+  class: File
+  path: python/infective-dermatitis-atopccontactotherunspecified---primary.py
+inputModule6:
+  class: File
+  path: python/pustular-dermatitis-atopccontactotherunspecified---primary.py
+inputModule7:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-infected---primary.py
+inputModule8:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-pityriasis---primary.py
+inputModule9:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-prurigo---primary.py
+inputModule10:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-neurodermatitis---primary.py
+inputModule11:
+  class: File
+  path: python/discoid-dermatitis-atopccontactotherunspecified---primary.py
+inputModule12:
+  class: File
+  path: python/contact---primary.py
+inputModule13:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-grease---primary.py
+inputModule14:
+  class: File
+  path: python/solvent-dermatitis-atopccontactotherunspecified---primary.py
+inputModule15:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-medicament---primary.py
+inputModule16:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-product---primary.py
+inputModule17:
+  class: File
+  path: python/adhesive-dermatitis-atopccontactotherunspecified---primary.py
+inputModule18:
+  class: File
+  path: python/chemical-dermatitis-atopccontactotherunspecified---primary.py
+inputModule19:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-plantar---primary.py
+inputModule20:
+  class: File
+  path: python/allergic-dermatitis-atopccontactotherunspecified---primary.py
+inputModule21:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-cosmetics---primary.py
+inputModule22:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-irritant---primary.py
+inputModule23:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-agent---primary.py
+inputModule24:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-weather---primary.py
+inputModule25:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-ingestion---primary.py
+inputModule26:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-eruption---primary.py
+inputModule27:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-lichenification---primary.py
+inputModule28:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-simplex---primary.py
+inputModule29:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-dyshidrosis---primary.py
+inputModule30:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-cheiropompholyx---primary.py
+inputModule31:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified-podopompholyx---primary.py
+inputModule32:
+  class: File
+  path: python/specified---primary.py
+inputModule33:
+  class: File
+  path: python/dermatitis-atopccontactotherunspecified---secondary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
